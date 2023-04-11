@@ -1,9 +1,0 @@
-Django==4.1.6
-matplotlib==3.5.2
-numpy==1.21.6
-openai==0.27.4
-pandas==1.4.4
-scikit_learn==1.2.2
-seaborn==0.11.2
-tensorflow==2.12.0
-tensorflow_intel==2.11.0
