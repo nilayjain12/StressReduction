@@ -6,7 +6,7 @@ import numpy as np
 import openai
 
 # Set your API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 def predict_stress(request):
     if request.method == 'POST':
